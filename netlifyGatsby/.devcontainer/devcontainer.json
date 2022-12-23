@@ -1,0 +1,6 @@
+{
+    "context": "..",
+    "dockerFile": "Dockerfile",
+    "workspaceFolder": "/root/dev"
+    "workspaceMount": "source=netgat-workspace,target=/root/dev,type=volume"
+}
